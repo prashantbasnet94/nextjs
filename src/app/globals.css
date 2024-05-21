@@ -2,6 +2,33 @@
 @tailwind components;
 @tailwind utilities;
 
+.btn {
+	@apply bg-blue-500;
+}
+
+.btn {
+	@apply text-white;
+}
+
+.btn {
+	@apply uppercase;
+}
+
+.btn {
+	@apply font-bold;
+}
+
+.btn {
+	@apply py-2;
+}
+
+.btn {
+	@apply  px-4;
+}
+
+.btn {
+	@apply rounded;
+}
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -21,9 +48,8 @@ body {
   background: linear-gradient(
       to bottom,
       transparent,
-      rgb(var(--background-end-rgb))
+      rgb(255, 255, 255, 1)
     )
-    rgb(var(--background-start-rgb));
 }
 
 @layer utilities {
