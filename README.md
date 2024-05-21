@@ -1,5 +1,10 @@
+
 Routing
-1. be inside src>app
+
+Pages should be created inside src>app
+
+
+1. cd src>app
     a. /thread
         i. create mkdir thread
         ii. create page.tsx
@@ -10,6 +15,7 @@ Routing
         iii. create page.tsx
 
         now this page is visible from /major/computer
+
 
 
 
