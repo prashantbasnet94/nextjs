@@ -1,0 +1,1307 @@
+ {
+    "searchUniversity": [
+        {
+            "elevatorInfo": {
+                "name": "University of North Alabama",
+                "unitId": 101879,
+                "address": {
+                    "streetAddressOrPOBox": "One Harrison Plaza",
+                    "city": "Florence",
+                    "stateAbbreviation": "Alabama",
+                    "__typename": "Address"
+                },
+                "alias": "UNA",
+                "ownType": "Public",
+                "tags": [
+                    "No App Fee",
+                    "Public",
+                    "SAT/ACT Optional",
+                    "Some Online Degrees"
+                ],
+                "missionStatement": "null",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20North%20Alabama_101879-1.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=x52S7nqJ9buFXpC%2BFpfCfAknN%2Bw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20North%20Alabama_101879-3.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=uFVSPaZ2PxHahBjJatmvKRCWL%2Fs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20North%20Alabama_101879-6.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=8%2Bxc7FLbuTyJAofedRLAeBh4Db4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20North%20Alabama_101879-10.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=M%2BsPYrGNTMoeAUwXbyfgIgVTfxU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20North%20Alabama_101879-5.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=aFKV%2BTe1RlZ2u7zf5C7YEtDy8Fk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20North%20Alabama_101879-9.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=C7XYNbBy7F7JVPJHTDvEB%2FTMeIA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20North%20Alabama_101879-8.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=gTh2C13YZd5z1min7Ls4DYa1LRY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20North%20Alabama_101879-4.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=a%2BkyUu3VhzyAppKyIvRG%2BY3z2Uw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20North%20Alabama_101879-2.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=RfAvy8ajy6kRYxZA7skmeHYjp%2Bc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D"
+                ],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 0,
+                "graduateApplicationFee": 0,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 9600,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 19200,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 14920,
+                            "outOfState": 24520,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 22886,
+                            "outOfState": 32486,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 22886,
+                            "outOfState": 32486,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 6600,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 13320,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "Auburn University at Montgomery",
+                "unitId": 100830,
+                "address": {
+                    "streetAddressOrPOBox": "7440 East Drive",
+                    "city": "Montgomery",
+                    "stateAbbreviation": "Alabama",
+                    "__typename": "Address"
+                },
+                "alias": "AUM||Auburn University at Montgomery|Auburn Montgomery",
+                "ownType": "Public",
+                "tags": [
+                    "No App Fee",
+                    "Public"
+                ],
+                "missionStatement": "The mission of Auburn University at Montgomery is to provide quality and diverse educational opportunities at the undergraduate and graduate levels through use of traditional and electronic delivery systems, and to foster and support an environment conducive to teaching, research, scholarship, and collaboration with government agencies, our community, and other educational institutions.",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 0,
+                "graduateApplicationFee": 25,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 7992,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 17952,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 13890,
+                            "outOfState": 23850,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 24186,
+                            "outOfState": 34146,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 21258,
+                            "outOfState": 31218,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 7578,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 17046,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "Auburn University",
+                "unitId": 100858,
+                "address": {
+                    "streetAddressOrPOBox": "null",
+                    "city": "Auburn",
+                    "stateAbbreviation": "Alabama",
+                    "__typename": "Address"
+                },
+                "alias": "null",
+                "ownType": "Public",
+                "tags": null,
+                "missionStatement": "null",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 50,
+                "graduateApplicationFee": 60,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 10080,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 30240,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 19054,
+                            "outOfState": 39214,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 33650,
+                            "outOfState": 53810,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 33650,
+                            "outOfState": 53810,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 10080,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 30240,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "University of Alaska Fairbanks",
+                "unitId": 102614,
+                "address": {
+                    "streetAddressOrPOBox": "1731 South Chandalar Drive",
+                    "city": "Fairbanks",
+                    "stateAbbreviation": "Alaska",
+                    "__typename": "Address"
+                },
+                "alias": "UAF",
+                "ownType": "Public",
+                "tags": [
+                    "Large Online Program",
+                    "Public",
+                    "SAT/ACT Optional"
+                ],
+                "missionStatement": "null",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Fairbanks_102614-2.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=HR0cTroxYH305jRK%2F4LgV4%2FVkwE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Fairbanks_102614-9.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=z7yuOmGvpDmanqm6J4IWxAPruJI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Fairbanks_102614-3.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=QJwLx25UYZdH%2Bss7u7Be%2FoQ3ACM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Fairbanks_102614-4.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=uZo4WSMoGWK7n1powKTNza%2BRJdE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Fairbanks_102614-5.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=umvQCJ56wAD%2BVLIYnrIxo%2Fw75tU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Fairbanks_102614-7.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=ae16aLRjQ8eMw5UhdB9qXihXnmU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Fairbanks_102614-6.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=AqF%2Bnf74qPYOg2wMEOqAfGcvENs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Fairbanks_102614-10.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=zCCkDKxoiq5gnRGMMQ%2FRxHpoX3M%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Fairbanks_102614-1.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=OdBAq20%2Fks49%2BOhhkC6dZkSiDYU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Fairbanks_102614-8.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=TtjIhIATHauVBULJBCwZQjXwa7k%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D"
+                ],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 50,
+                "graduateApplicationFee": 75,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 7296,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 23087,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 13498,
+                            "outOfState": 27634,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 25548,
+                            "outOfState": 39684,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 22438,
+                            "outOfState": 36574,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 11265,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 23095,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "Arizona State University Campus Immersion",
+                "unitId": 104151,
+                "address": {
+                    "streetAddressOrPOBox": "University Drive and Mill Avenue",
+                    "city": "Tempe",
+                    "stateAbbreviation": "Arizona",
+                    "__typename": "Address"
+                },
+                "alias": "ASU Tempe",
+                "ownType": "Public",
+                "tags": null,
+                "missionStatement": "null",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 50,
+                "graduateApplicationFee": 70,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 10710,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 28800,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 17060,
+                            "outOfState": 35150,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": 4412,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 27034,
+                            "outOfState": 45124,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": 9974,
+                        "otherExpenses": 4412,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 29774,
+                            "outOfState": 47864,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 11720,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 23544,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "University of Alabama at Birmingham",
+                "unitId": 100663,
+                "address": {
+                    "streetAddressOrPOBox": "Administration Bldg Suite 1070",
+                    "city": "Birmingham",
+                    "stateAbbreviation": "Alabama",
+                    "__typename": "Address"
+                },
+                "alias": "UAB",
+                "ownType": "Public",
+                "tags": null,
+                "missionStatement": "null",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alabama%20at%20Birmingham_100663-8.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=HtQaAON35x4GzVRwjoZUJUWDzaI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alabama%20at%20Birmingham_100663-9.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=VobF8OlnL7OjFW4Lp4%2FAV%2B3pah0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alabama%20at%20Birmingham_100663-2.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=aal2P%2FvfaAQy3LG3VJkGVtldXbc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alabama%20at%20Birmingham_100663-1.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=b7G88xKRl5Ue8ccGfQaO4edKZ2A%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alabama%20at%20Birmingham_100663-5.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=md3Zk4EC%2FMB5oxzIsvs2hHrCxmk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alabama%20at%20Birmingham_100663-4.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=x6rylqTmPhumkJG1lpQKY7L8%2BPw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alabama%20at%20Birmingham_100663-3.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=ExeRKFLxHHMQuX40yU7cAGshMHE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alabama%20at%20Birmingham_100663-7.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=usYZMezWrrUVBNqyxbuSK%2Fvrc6k%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alabama%20at%20Birmingham_100663-6.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=gXZBRdpVB2A7V1CIgGRhwTn2SEs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alabama%20at%20Birmingham_100663-10.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=%2BI2vz1rE7YMUYwwOvtjqHqc5mg4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D"
+                ],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 40,
+                "graduateApplicationFee": 50,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 8568,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 20400,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 15323,
+                            "outOfState": 27155,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 27630,
+                            "outOfState": 39462,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 27630,
+                            "outOfState": 39462,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 8100,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 19188,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "Troy University",
+                "unitId": 102368,
+                "address": {
+                    "streetAddressOrPOBox": "University Avenue",
+                    "city": "Troy",
+                    "stateAbbreviation": "Alabama",
+                    "__typename": "Address"
+                },
+                "alias": "TROY",
+                "ownType": "Public",
+                "tags": [
+                    "Large Online Program",
+                    "Public",
+                    "SAT/ACT Optional"
+                ],
+                "missionStatement": "null",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 30,
+                "graduateApplicationFee": 50,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 9312,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 18624,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 15378,
+                            "outOfState": 24690,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": 4766,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 25720,
+                            "outOfState": 35032,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": 10342,
+                        "otherExpenses": 4766,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 22977,
+                            "outOfState": 32289,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 8550,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 17100,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "Alabama A & M University",
+                "unitId": 100654,
+                "address": {
+                    "streetAddressOrPOBox": "4900 Meridian Street",
+                    "city": "Normal",
+                    "stateAbbreviation": "Alabama",
+                    "__typename": "Address"
+                },
+                "alias": "AAMU",
+                "ownType": "Public",
+                "tags": null,
+                "missionStatement": "null",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [
+                    "https://unisala-university-images.s3.amazonaws.com/Alabama%20A%20%26%20M%20University_100654-6.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=WDWezyAP56PUs%2BRIu9b%2BOt6yawI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Alabama%20A%20%26%20M%20University_100654-2.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=N%2F%2FS7e%2BD1v0LlTwzFnZ4bGtzTsE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Alabama%20A%20%26%20M%20University_100654-10.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=7oOf%2Bu4815pwu7632fRots5pi2s%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Alabama%20A%20%26%20M%20University_100654-4.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=ko1TGh%2FQqSEoyHpr95JKISWADn8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Alabama%20A%20%26%20M%20University_100654-5.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=tV7LqmicWk6Og7p%2BJ9YVambSzJs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Alabama%20A%20%26%20M%20University_100654-3.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=ww%2FMAua8yG8gZD9kAprQj0AzVNo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Alabama%20A%20%26%20M%20University_100654-1.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=9Pzb6ozX8ay23J%2BU1dcL8kJMD9o%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Alabama%20A%20%26%20M%20University_100654-9.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=vKs4hkGfZ7PCP%2FMByy91yG9kqxk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Alabama%20A%20%26%20M%20University_100654-7.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=Bd9NQQlGVFSdHJ5ouAljKT0QljY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Alabama%20A%20%26%20M%20University_100654-8.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=mXSgg3HrQgecdpXmSkjYaYYApuY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D"
+                ],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 30,
+                "graduateApplicationFee": 45,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 8610,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 17220,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 15064,
+                            "outOfState": 23674,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 24234,
+                            "outOfState": 32844,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 24234,
+                            "outOfState": 32844,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 10128,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 20160,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "University of Alaska Anchorage",
+                "unitId": 102553,
+                "address": {
+                    "streetAddressOrPOBox": "3211 Providence Drive",
+                    "city": "Anchorage",
+                    "stateAbbreviation": "Alaska",
+                    "__typename": "Address"
+                },
+                "alias": "UAA",
+                "ownType": "Public",
+                "tags": null,
+                "missionStatement": "The University of Alaska Anchorage (UAA) transforms lives through teaching, research, community engagement and creative expression in a diverse and inclusive environment. Serving students, the state, and the communities of Southcentral Alaska, UAA is a comprehensive, open access, public university established on the ancestral lands of the Dena’ina, Ahtna Dene, Alutiiq/Sugpiaq, Chugachmiut, and Eyak peoples.",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Anchorage_102553-6.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=9HSs%2BQeCjlS1cOiCjBbu2nPdAgU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Anchorage_102553-2.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=gi2Gw0W6rgCrleKO7fvPgVxnPZk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Anchorage_102553-5.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=nkg6NYfbR%2BWVHpOrChyOlKTmDLk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Anchorage_102553-1.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=6eFASaFhgqtkqnp4aAxsZwVDSbY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Anchorage_102553-10.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=OZeQ9SsJXQACKVFLEM%2BCnDroBFY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Anchorage_102553-7.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=0UHl4JoYGrQuSV8Fq1HJa8HCRbk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Anchorage_102553-9.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=aVKfe58kyz86aCMn0ODKgIcjbns%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Anchorage_102553-8.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=bG2q2Nza7fT4kmYmFE%2BvFOal4r4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Anchorage_102553-3.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=DnsLQhdrsilkfn46WuQQxDWAc%2Fw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Alaska%20Anchorage_102553-4.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=gFTmpa78zKsCP%2FtrqcCRTMaocZM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D"
+                ],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 0,
+                "graduateApplicationFee": 0,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 7224,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 23072,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 19705,
+                            "outOfState": 36311,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 29573,
+                            "outOfState": 46179,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 30880,
+                            "outOfState": 47486,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 10773,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 22659,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "University of Arizona",
+                "unitId": 104179,
+                "address": {
+                    "streetAddressOrPOBox": "1401 E University",
+                    "city": "Tucson",
+                    "stateAbbreviation": "Arizona",
+                    "__typename": "Address"
+                },
+                "alias": "The University of Arizona | UArizona | U of A | UofA | UA | University of AZ | Univ. of AZ | The Univ. of AZ",
+                "ownType": "Public",
+                "tags": [
+                    "Common App Accepted",
+                    "Hispanic-Serving Institution",
+                    "Public",
+                    "SAT/ACT Optional",
+                    "Some Online Degrees"
+                ],
+                "missionStatement": "null",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Arizona_104179-4.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=J79rxv1hu3fxh45QeF%2BpUnZc8Ps%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Arizona_104179-2.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=5ES8gzWYFd3rzBnPz5Vm9SWNPg0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Arizona_104179-5.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=BXwTQH1lN5oTAvdzqvQZU%2By9FUs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Arizona_104179-3.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=qjILDpH5WtERqQ07gLjIMrsreMg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Arizona_104179-10.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=9KEw%2BEXeBfV19Z7wM1oo4zG34WA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Arizona_104179-8.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=noU7qYxrqRC%2B%2BeIz%2FjsjH0XWfAI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Arizona_104179-1.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=R1RKKW7EptgsmNoMgo%2FcDTeRKio%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Arizona_104179-7.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=Nq3GNmJ0lsuEAbC6izaX9MP39os%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Arizona_104179-6.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=dwopDeNDiHPNIp6rcdBycP9R8dc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Arizona_104179-9.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=lo%2Brt8e9ryDPUC%2Bk4WYIckYrYqo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D"
+                ],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 50,
+                "graduateApplicationFee": 85,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 10990,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 33739,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 17236,
+                            "outOfState": 41758,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 30136,
+                            "outOfState": 54658,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 30686,
+                            "outOfState": 55208,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 12106,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 32290,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "University of Alabama in Huntsville",
+                "unitId": 100706,
+                "address": {
+                    "streetAddressOrPOBox": "301 Sparkman Dr",
+                    "city": "Huntsville",
+                    "stateAbbreviation": "Alabama",
+                    "__typename": "Address"
+                },
+                "alias": "UAH  University of Alabama Huntsville",
+                "ownType": "Public",
+                "tags": null,
+                "missionStatement": "null",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 30,
+                "graduateApplicationFee": 60,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 9730,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 22126,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 17944,
+                            "outOfState": 30340,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 28708,
+                            "outOfState": 41104,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 28708,
+                            "outOfState": 41104,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 10632,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 24430,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "Jacksonville State University",
+                "unitId": 101480,
+                "address": {
+                    "streetAddressOrPOBox": "700 Pelham Road North",
+                    "city": "Jacksonville",
+                    "stateAbbreviation": "Alabama",
+                    "__typename": "Address"
+                },
+                "alias": "null",
+                "ownType": "Public",
+                "tags": [
+                    "Public",
+                    "Some Online Degrees"
+                ],
+                "missionStatement": "null",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [
+                    "https://unisala-university-images.s3.amazonaws.com/Jacksonville%20State%20University_101480-7.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=dJVOhTi0KkUjk5Hu2%2FTqWPWdW3E%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Jacksonville%20State%20University_101480-8.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=WKvGH%2FquYy59KbNpHpzANR9ttCg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Jacksonville%20State%20University_101480-1.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=leBsENfK3ez09EGfhY%2FfaB0a434%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Jacksonville%20State%20University_101480-3.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=TlRbH7ITefyWs35EXqPaERXJA50%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Jacksonville%20State%20University_101480-5.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=eHzdyLKHRnRDf7XFpd%2Brm6jJ%2Fts%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Jacksonville%20State%20University_101480-4.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=V%2B38nRqN39va29l%2B%2FvVHP5TZLN8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Jacksonville%20State%20University_101480-6.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=h%2FLOYj7%2BpxDK5MVD9fFg%2B7rb6iE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Jacksonville%20State%20University_101480-9.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=r0dbPMlColi2IxEpXQS0Sf1ed%2FA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Jacksonville%20State%20University_101480-2.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=sk4JgCb7x0ATL8jdyZFh2%2BipiRc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/Jacksonville%20State%20University_101480-10.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=ZN1ulsJexE%2BAWoUdX1x5DWDS5u4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D"
+                ],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 35,
+                "graduateApplicationFee": 35,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 9720,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 19440,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 17128,
+                            "outOfState": 26848,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 24923,
+                            "outOfState": 34643,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 22633,
+                            "outOfState": 32353,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 9600,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 19200,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "University of South Alabama",
+                "unitId": 102094,
+                "address": {
+                    "streetAddressOrPOBox": "307 N University Blvd",
+                    "city": "Mobile",
+                    "stateAbbreviation": "Alabama",
+                    "__typename": "Address"
+                },
+                "alias": "null",
+                "ownType": "Public",
+                "tags": [
+                    "Public",
+                    "SAT/ACT Optional"
+                ],
+                "missionStatement": "null",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20South%20Alabama_102094-4.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=Mfiy3tjwZsyuRNIMGxevP3x4%2Fhc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20South%20Alabama_102094-7.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=CdCHqixOMAgvCzvHJ%2F%2FFymJH01s%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20South%20Alabama_102094-5.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=vRYaVEHeMlObzxHguk%2BwFTfT4bs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20South%20Alabama_102094-8.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=UeQy2Plv1zRy%2FTdbMoeaixgRUGc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20South%20Alabama_102094-3.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=odE5IOUfLoypMNcfS2gfCV0LuYg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20South%20Alabama_102094-10.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=T0GD4e2szRJctCY0O3SDK7DhSx0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20South%20Alabama_102094-2.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=QSsg2od%2F2RvHC60fzIVtfMM5rgQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20South%20Alabama_102094-1.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=KF02gjEyTZaRrDLZQwGZdY5X2ZE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20South%20Alabama_102094-9.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=mLesaNebBYh7hJcpaRx2znvnlxY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20South%20Alabama_102094-6.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=4qUNsqlL%2FqemQrXrS1feql0vdnA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D"
+                ],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 35,
+                "graduateApplicationFee": 35,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 8256,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 16512,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 14818,
+                            "outOfState": 23074,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 23838,
+                            "outOfState": 32094,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 22968,
+                            "outOfState": 31224,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 8226,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 16452,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "University of Arkansas at Pine Bluff",
+                "unitId": 106412,
+                "address": {
+                    "streetAddressOrPOBox": "1200 N University Mail Slot 4789",
+                    "city": "Pine Bluff",
+                    "stateAbbreviation": "Arkansas",
+                    "__typename": "Address"
+                },
+                "alias": "UAPB",
+                "ownType": "Public",
+                "tags": [
+                    "HBCU",
+                    "Public"
+                ],
+                "missionStatement": "null",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 30,
+                "graduateApplicationFee": 45,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 5130,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 11640,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 14154,
+                            "outOfState": 21024,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 19012,
+                            "outOfState": 25882,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 21748,
+                            "outOfState": 28618,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 5184,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 11760,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        },
+        {
+            "elevatorInfo": {
+                "name": "University of Central Arkansas",
+                "unitId": 106704,
+                "address": {
+                    "streetAddressOrPOBox": "201 Donaghey Ave",
+                    "city": "Conway",
+                    "stateAbbreviation": "Arkansas",
+                    "__typename": "Address"
+                },
+                "alias": "null",
+                "ownType": "Public",
+                "tags": [
+                    "Public",
+                    "SAT/ACT Optional",
+                    "Some Online Degrees"
+                ],
+                "missionStatement": "null",
+                "graduateOffering": "Graduate degree or certificate offering",
+                "undergraduateOffering": "Undergraduate degree or certificate offering",
+                "pictures": [
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Central%20Arkansas_106704-2.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=cKKedNgsHDRlHDBeKYlTzmGcCIg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Central%20Arkansas_106704-6.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=cnJkVw8lHlZo7PQdzYcaIlZOSbs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Central%20Arkansas_106704-4.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=vsfRof9vKJvkgSEae6Re8A96cIc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Central%20Arkansas_106704-3.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=%2B8YgiTFEG3d93PNa7Mou4ngqgNg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Central%20Arkansas_106704-1.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=%2F7g%2Fh8NX8CB57LmPcGB4wym0LnM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Central%20Arkansas_106704-7.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=MVFOrwAPzJ7EM8IRqIYaeAxwCb4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Central%20Arkansas_106704-5.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=evl38Ku1ivxsQyA2J969ZbPHH80%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Central%20Arkansas_106704-9.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=mf3Tk3Zuysg9aUF7EfhdMx88qi0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Central%20Arkansas_106704-10.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=Fp%2F%2Fy9mPV8f2TkYwFP8llWAx3Ao%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D",
+                    "https://unisala-university-images.s3.amazonaws.com/University%20of%20Central%20Arkansas_106704-8.jpg?AWSAccessKeyId=ASIAUVJSKU376WKMZTLY&Expires=1716416205&Signature=SxmI98Dc1TD2WOTz5KgHLDe2KOM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRjBEAiBPQxrdL6M8ZTGe2V5rK28zDqiNq7A4O7gn6uAZmt2soAIgMHeIQgj9ybo63EVVX42iKDGx%2FilMFr0TDolmIY8jRcEqvwUIZhABGgwzMjA2MTc0OTAxNzUiDJ41SIK%2BxghFGwavDCqcBfSgLLNOs0Fc7y1h7rzWHufPF1s0kECqQ9bDUudFyGOVkUluBno%2FHvb%2FctJKvLz01vkIZjSgfLLzwUAoNc1kswt3sHGuSrVt5EN4DiJE7q47%2BbdZirVI9eOn9y1VGwKGsXyfqwC2aSkKkOvR2Isqg0yXJeDxdwxnaXwXrCnsptpnasqD6yDlx7VQLDnZG%2Fu8nhSewRt%2FDQ60ZHqhFYHfRT7g6eewNAPSI6m%2Fd0IoU2whIFtSes%2BIRLyw5wVdnFAG0TK5VDc%2BCsKmtT0cV254uN5NocPe%2FpPbOqfX%2FqFXNVd1AM5Gjyy9Q4P2prnpSQPvOD1pbExWq7FpI1vGh7qsZx62FGd%2BAfNf46hrMgmJ5RHzchymAjsbRs%2F%2FUFdi9YRSXAhtgEF9nukl6vmXUceGbwnAFfvWTBu%2B7eB4VWkkq9Jr0GD5xGqHwxJZSRMNhLPEEirvOAlkAFIFCab6lXE0Y5YRvzJDYNoW52r3gIoTgNwYTolj3tKWWCp9yJlceiVWirBNaZcmoBGJiUsbbBk79I7WyF6QCRpDU4ikm5OMHrYccn%2BX4BCYN2h0Vc4mmZeQWTfE9L8pN3n8mBU4M7vY92p7R3NOzfTJ9zd3JfN1lAN9imwWiM70W91ZwpvlouXRBArxa8fsllZXTPhYkULfIeiQhOktbs58eFF%2BbDG6zNFrAtJAG3SdZgHvRA%2FRY6MRXVq0S7LeZArYY%2Bc8sznk0kjprbs%2FF4xOaisI9Sdv5l5Iff13SYhCBWAI%2FfF0J5wCK9RJq3Ep2YNGNAtMUVaZYb6aAQeRA956HEIRdlx2fWMM%2F5KIjJxZhcSA1pxpW7Gt1OLIyl9JEROmWrfFUtQutZWRzJEyH8f9OwSxS56EpReojrC27FiAnaY2TG49MOu8ubIGOrIBv73MOZpHzEicQl0r12FpIRoqJV8JE0M6tInyQNCBIc7K%2BXJVyeZyJnX0EsIzXmZkqBFjMxrV%2Fzu92mLe1XKeHZeyMXo9aAsNLJNW2EKJFthTSuvw9mtQvidIRTmRfYEGE4ONQyRStxQwnLjlUPm0gAPLmKSGA5TLaV7oxxcn6mRh6D78dGRHMmsCNB7iy1bxgO%2F3cVTgf6Jep60ZZuVNE%2B3NGs2cVnXZIvQ0xAPG9aVB0w%3D%3D"
+                ],
+                "__typename": "InstitutionCharacterSchema"
+            },
+            "studentCharges": {
+                "undergraduateApplicationFee": 25,
+                "graduateApplicationFee": 45,
+                "undergraduate": {
+                    "inState": {
+                        "tuition": 6870,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 13740,
+                        "__typename": "Tuition"
+                    },
+                    "offCampusWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 17409,
+                            "outOfState": 24279,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "offCampusNotWithFamily": {
+                        "costOfAttendance": {
+                            "inState": 25219,
+                            "outOfState": 32089,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "roomAndBoard": -1,
+                        "otherExpenses": -1,
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "onCampus": {
+                        "costOfAttendance": {
+                            "inState": 23651,
+                            "outOfState": 30521,
+                            "__typename": "CostOfAttendance"
+                        },
+                        "__typename": "PriceOfAttendance"
+                    },
+                    "__typename": "Undergraduate"
+                },
+                "graduate": {
+                    "inState": {
+                        "tuition": 5063,
+                        "__typename": "Tuition"
+                    },
+                    "outOfState": {
+                        "tuition": 10125,
+                        "__typename": "Tuition"
+                    },
+                    "__typename": "Graduate"
+                },
+                "__typename": "StudentChargesSchema"
+            },
+            "overallRating": null,
+            "totalPeopleVoted": 0,
+            "__typename": "NewSchoolScholarship"
+        }
+    ]
+  }
